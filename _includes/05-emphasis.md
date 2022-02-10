@@ -1,4 +1,7 @@
+work skills:
+
 * hard skills
+\
   * accounting degree (Cesuca, 2019);
   * intermediate english;
   * native portuguese;
@@ -8,6 +11,7 @@
   * 2 years at help desk career;
 
 * soft skills
+\
   * ease of learning;
   * leadership sensus;
   * hard worker;
