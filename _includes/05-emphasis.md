@@ -1,6 +1,4 @@
-work skills:
-
-* hard skills
+hard skills
 
   * accounting degree (Cesuca, 2019);
   * intermediate english;
@@ -10,7 +8,7 @@ work skills:
   * 6 years at accounting career;
   * 2 years at help desk career;
 
-* soft skills
+soft skills
 
   * ease of learning;
   * leadership sensus;
@@ -20,3 +18,9 @@ work skills:
   * assertive communication;
   * *__ethic__-driven*;
   * dependable;
+
+Mentors
+
+  * Fabio Akita @akitaonrails
+  * Isabela @icapetti
+  * Github Teacher @githubteacher
